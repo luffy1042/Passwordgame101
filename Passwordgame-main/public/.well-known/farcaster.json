@@ -2,16 +2,17 @@
   "frame": {
     "name": "Password Game",
     "version": "1",
-    "iconUrl": "https://play-lh.googleusercontent.com/y_8U-sQwIXJpRI1hVjzNRNZrbI_akCTRCSlar3m8jzGMpcUgHgOagPKwq7x2dBtiEQ",
+    "iconUrl": "quirkylock-eosin.vercel.app"
+
   "homeUrl": "https://quirkylock-eosin.vercel.app/",
-    "imageUrl": "https://neal.fun/share-cards/password-game.png?v=2",
-    "splashImageUrl": "https://play-lh.googleusercontent.com/y_8U-sQwIXJpRI1hVjzNRNZrbI_akCTRCSlar3m8jzGMpcUgHgOagPKwq7x2dBtiEQ",
+    "imageUrl": "quirkylock-eosin.vercel.app"
+    "splashImageUrl": "quirkylock-eosin.vercel.app"
     "splashBackgroundColor": "#E5D9F2",
   "webhookUrl": "https://quirkylock-eosin.vercel.app/",
     "subtitle": "Survive the password chaos!",
     "description": "A game that tests your password strength, your patience, and your will to live",
     "screenshotUrls": [
-      "https://neal.fun/share-cards/password-game.png?v=2"
+      "quirkylock-eosin.vercel.app"
     ],
     "primaryCategory": "games",
     "tags": [
@@ -24,8 +25,8 @@
     "tagline": "Follow the rules… if you can!",
     "ogTitle": "Password Game",
     "ogDescription": "A game that tests your password strength, your patience, and your will to live",
-    "ogImageUrl": "https://neal.fun/share-cards/password-game.png?v=2",
-  "castShareUrl": "https://quirkylock-eosin.vercel.app/~/share-cards/password-game"
+    "ogImageUrl": "quirkylock-eosin.vercel.app"
+  "castShareUrl": "quirkylock-eosin.vercel.app"
   },
   "accountAssociation": {
     "header": "eyJmaWQiOjEzOTk4NzYsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxYUMyQTNmNDMyNGNBODk2RjNmNDFkNjM4MTVEOTc3MjVBMTAwMEQyIn0",
