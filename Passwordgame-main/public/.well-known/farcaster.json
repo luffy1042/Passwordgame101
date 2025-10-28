@@ -56,16 +56,14 @@
     "ogImageUrl": "https://neal.fun/share-cards/password-game.png?v=2",
     "castShareUrl": "https://warpcast.com/~/share-cards/password-game"
   },
+{
   "accountAssociation": {
     "header": "eyJmaWQiOjEzOTk4NzYsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgxYUMyQTNmNDMyNGNBODk2RjNmNDFkNjM4MTVEOTc3MjVBMTAwMEQyIn0",
-    "payload": "eyJkb21haW4iOiJxdWlya3lsb2NrLTkyYXY1dWZ4aC1sdWZmeTEwNDJzLXByb2plY3RzLnZlcmNlbC5hcHAifQ",
-    "signature": "hB6OUirDds/B370rCxy1UOThQRDA1cL99fPQcQ2+ymhRPDg0M6KqGB35Bogs31+b90j4szGupc85AdrAGR6r6Rs="
+    "payload": "eyJkb21haW4iOiJxdWlya3lsb2NrLXFoNzVtZmk5eC1sdWZmeTEwNDJzLXByb2plY3RzLnZlcmNlbC5hcHAifQ",
+    "signature": "2D6l3pJWSn9LIbL2ZIAjvddY2U30YiLQybJLFLnurAZULrUONAUvbjy/4hZ1HaavqpuN21g9XuuP/iXJRTU0vhw="
   }
 }
-  
-
-
   }
-}
+
   
 
