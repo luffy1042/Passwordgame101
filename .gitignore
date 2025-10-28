@@ -1,0 +1,12 @@
+node_modules/
+.next/
+dist/
+build/
+.env
+.env.*
+.DS_Store
+.vscode/
+# lockfiles are optional—keep if you prefer reproducible installs
+# package-lock.json
+
+# Ensure .well-known is tracked (do NOT add any entry for it)
