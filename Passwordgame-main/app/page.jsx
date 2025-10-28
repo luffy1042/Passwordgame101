@@ -30,6 +30,17 @@ export default function Home(){
     // initialization rule numbers
     useEffect(() => {
 
+        // Notify the Farcaster miniapp runtime that the app is ready.
+        // This will allow the Farcaster SDK to dismiss any splash screen or perform platform-specific setup.
+        try{
+            if (sdk && sdk.actions && typeof sdk.actions.ready === 'function'){
+                sdk.actions.ready();
+            }
+        }catch(e){
+            // ignore errors when running outside the Farcaster runtime
+            console.warn('Farcaster SDK ready call failed', e);
+        }
+
         for (let i = 0; i < ruleList.length; i++) {
             ruleList[i].num = i + 1;
         }

@@ -9,6 +9,8 @@ export default function RootLayout({ children }) {
  return (
     <html lang="en">
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#533ea5" />
         <link href='https://fonts.googleapis.com/css?family=Roboto+Mono' rel='stylesheet'/>
       </head>
       <body>{children}</body>
